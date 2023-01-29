@@ -1,5 +1,5 @@
 # cutechessfix
-tool to restart a CUTECHESS-CLI tournament after engine crash
+tool to restart a CUTECHESS-CLI tournament after engine's crash
 
 Prerequisites :
 copy cutechessfix.exe to your CUTECHESS-CLI folder<p>
